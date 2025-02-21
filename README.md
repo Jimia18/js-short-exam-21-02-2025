@@ -1,3 +1,6 @@
+#Kideni Jimia
+#2024/DSC/0041/SS
+
 # js-short-exam-21-02-2025
 20min exam
 # Intermediate-quiz
