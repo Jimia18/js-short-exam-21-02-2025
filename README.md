@@ -15,7 +15,7 @@
 # 9.B
 # 10.A
 # 11;
-function greet(Hello,name){
+function greet(name){
 return Hello,name;
 }
 console.log('Hello,name')
